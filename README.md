@@ -18,20 +18,20 @@ Here are some ideas to get you started:
 
 ## Tech Stack ##
 
-** I'm currently learning: ** MongoDB, Express.js, React, React Native  
+**I'm currently learning:** MongoDB, Express.js, React, React Native  
 
-Programming Languages: C++, C, Python, JavaScript, Node.js, Swift
+**Programming Languages:** C++, C, Python, JavaScript, Node.js, Swift
 
-Frameworks: VueJS, Bootstrap4, Express.js
+**Frameworks:** VueJS, Bootstrap4, Express.js
 
-Frontend: HTML, CSS
+**Frontend:** HTML, CSS
 
-Database: MySQL, MongoDB
+**Database:** MySQL, MongoDB
 
-Mobile: iOS, React Native 
+**Mobile:** iOS, React Native 
 
-Embedded Systems: TI Microcontroller, Ardunino UNO, TI Launchpad
+**Embedded Systems:** TI Microcontroller, Ardunino UNO, TI Launchpad
 
-FPGA Programming: Intel Quartus FPGA, Verilog, VHDL
+**FPGA Programming:** Intel Quartus FPGA, Verilog, VHDL
 
-Architecture: RISC-V, ARM-Processor
+**Architecture:** RISC-V, ARM-Processor
