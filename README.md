@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 
 ## Tech Stack ##
 
-**I'm currently learning:** MongoDB, Express.js, React, React Native  
-
+**I'm currently learning:** MongoDB, Express.js, React
 **Programming Languages:** C++, C, Python, JavaScript, Node.js, Swift
 
 **Frameworks:** VueJS, Bootstrap4, Express.js
@@ -28,7 +27,7 @@ Here are some ideas to get you started:
 
 **Database:** MySQL, MongoDB
 
-**Mobile:** iOS, React Native 
+**Mobile:** iOS 
 
 **Embedded Systems:** TI Microcontroller, Ardunino UNO, TI Launchpad
 
