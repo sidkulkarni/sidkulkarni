@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## Tech Stack ##
 
-I'm currently learning: MongoDB, Express.js, React, React Native  
+** I'm currently learning: ** MongoDB, Express.js, React, React Native  
 
 Programming Languages: C++, C, Python, JavaScript, Node.js, Swift
 
