@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 **Programming Languages:** C++, C, Python, JavaScript, Node.js, Swift
 
-**Frameworks:** VueJS, Bootstrap4, Express.js
+**Frameworks:** VueJS, Bootstrap4, jQuery, Express.js
 
 **Frontend:** HTML, CSS
 
