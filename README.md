@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 **I'm currently learning:** MongoDB, Express.js, React
 
-**Programming Languages:** C++, C, Python, JavaScript, Node.js, Swift
+**Programming Languages:** C++, C, Python, JavaScript,Swift
 
-**Frameworks:** VueJS, Bootstrap4, jQuery, Express.js
+**Frameworks:** VueJS, Bootstrap4, jQuery,Node.js, Express.js
 
 **Frontend:** HTML, CSS
 
