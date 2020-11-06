@@ -18,15 +18,15 @@ Here are some ideas to get you started:
 
 ## Tech Stack ##
 
-**I'm currently learning:** MongoDB, Express.js, React
+**I'm currently learning:** MongoDB, Express.js, React, React Native
 
 **Programming Languages:** C++, C, Python, JavaScript,Swift
 
-**Frameworks:** VueJS, Bootstrap4, jQuery,Node.js, Express.js
+**Frameworks:** VueJS, Bootstrap4, jQuery, Node.js
 
 **Frontend:** HTML, CSS
 
-**Database:** MySQL, MongoDB
+**Database:** MySQL, SQL
 
 **Mobile:** iOS 
 
