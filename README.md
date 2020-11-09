@@ -34,4 +34,4 @@ Here are some ideas to get you started:
 
 **Architecture:** RISC-V, ARM-Processor
 
-**I’m currently learning ...** Node.js, MongoDB, Express.js, React.js, React Native
+**I’m currently learning:** Node.js, MongoDB, Express.js, React.js, React Native
