@@ -33,3 +33,5 @@ Here are some ideas to get you started:
 **FPGA Programming:** Intel Quartus FPGA, Verilog, VHDL
 
 **Architecture:** RISC-V, ARM-Processor
+
+**I’m currently learning ...** Node.js, MongoDB, Express.js, React.js, React Native
