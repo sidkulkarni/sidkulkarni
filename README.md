@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 
 ## Tech Stack ##
 
-**I'm currently learning:** Node.js, MongoDB, Express.js, React, React Native
-
 **Programming Languages:** C++, C, Python, JavaScript,Swift
 
 **Frameworks:** VueJS, Bootstrap4, jQuery, Node.js
