@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## Tech Stack ##
 
-**Programming Languages:** C++, C, Python, JavaScript,Swift
+**Programming Languages:** C++, C, Python, JavaScript, Swift
 
 **Frameworks:** VueJS, Bootstrap4, jQuery
 
