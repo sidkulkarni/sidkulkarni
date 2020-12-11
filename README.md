@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 **Programming Languages:** C++, C, Python, JavaScript, Swift
 
-**Frameworks:** VueJS, Bootstrap4, jQuery
+**Frameworks:** VueJS, Bootstrap4, jQuery, ReactJS
 
 **Frontend:** HTML, CSS
 
